@@ -1,0 +1,46 @@
+PrivacyLens Sample Sensitive Data File
+========================================
+THIS FILE CONTAINS SYNTHETIC TEST DATA ONLY.
+No real personal information is used.
+
+---- Personal Information ----
+Name: Arjun Kumar
+Date of Birth: 15/08/1998
+Email: arjun.kumar@example.com
+Phone: +91 9876543210
+Alt Phone: 8765432109
+
+---- Government IDs ----
+PAN Card: ABCDE1234F
+Aadhaar Number: 2345 6789 0123
+
+---- Financial Information ----
+Credit Card: 4111 1111 1111 1111
+Bank Account: 123456789012
+IFSC Code: HDFC0001234
+Bank Name: HDFC Bank
+
+---- Credentials ----
+password=MySecretPass@123
+DB_PASSWORD=Sup3rS3cur3DB!
+
+---- API Keys & Tokens ----
+API_KEY=MY_TEST_API_KEY_EXAMPLE_1234567890abcdef
+STRIPE_SECRET=MY_STRIPE_LIVE_KEY_EXAMPLE_AbCdEfGhIjKlMnOpQr
+AWS_ACCESS_KEY_ID=MY_AWS_ACCESS_KEY_ID_EXAMPLE_1234
+AWS_SECRET_ACCESS_KEY=MY_AWS_SECRET_KEY_EXAMPLE_ABCDEFGHIJKLM
+
+---- JWT Token ----
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFyanVuIEt1bWFyIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+
+---- Private Key ----
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA0Z3VS5JJcds3xHn/ygWep4PAtEsHAi3yaHzFIVBxVBVRK
+(synthetic key content for testing purposes only)
+-----END RSA PRIVATE KEY-----
+
+---- Address ----
+Address: Flat 204, Green Valley Apartments, Sector 15, Noida, UP - 201301
+
+---- GitHub Token ----
+ghp_MYFAKEGITHUBTOKEN_abcdefghijklmnopqrstuvwxyz

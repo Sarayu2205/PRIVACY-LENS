@@ -1,0 +1,28 @@
+PrivacyLens Sample Clean Data File
+=====================================
+This file contains NO sensitive information.
+It should produce zero findings when scanned.
+
+---- General Content ----
+PrivacyLens is an AI-based cybersecurity application designed to detect
+sensitive information before users share documents.
+
+The application supports scanning of text files, PDF documents, DOCX files,
+and images using OCR technology.
+
+---- Technical Documentation ----
+The backend is built using FastAPI and Python.
+The frontend uses React with Vite and Tailwind CSS.
+The database is MySQL with SQLAlchemy ORM.
+
+---- Neutral Statistics ----
+In a study of 1000 documents, approximately 43% contained at least one
+category of sensitive information.
+
+The most common findings were email addresses (67%), followed by phone
+numbers (34%), and API keys (18%).
+
+---- Safety Notice ----
+Always review documents before sharing.
+Use PrivacyLens to detect and mask sensitive data.
+This tool is designed for educational and preventive purposes.
